@@ -5,8 +5,6 @@ Here I want amazing facts about cricket
 *** structure of prs ***
 {
         "id": ,
-        "Player name": " ",
         "fact": "",
-        "Nationality":""
         "year": "",
     },
